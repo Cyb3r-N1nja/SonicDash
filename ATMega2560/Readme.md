@@ -1,4 +1,4 @@
-# Working with ATMega2560 and with the development Board "ELOB* from ZLV Mint
+# Working with ATMega2560 and with the development Board "ELOB" from ZLV Mint
 
 Focusing on ...
 - Interrupts
