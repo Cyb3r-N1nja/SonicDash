@@ -131,6 +131,7 @@ dmypy.json
 
 
 #.gitignore C
+temp.c
 
 # Prerequisites
 *.d
