@@ -6,6 +6,10 @@ temp.py
 # C extensions
 *.so
 
+#VSCode
+.vs/
+.vscode/
+
 # Distribution / packaging
 .Python
 build/
